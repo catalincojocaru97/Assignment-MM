@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodMedia.MessageProcessor", "MoodMedia.MessageProcessor\MoodMedia.MessageProcessor.csproj", "{06514735-CE4F-0643-2693-5476E4F78F51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoodMedia.MessageProcessor.Tests", "MoodMedia.MessageProcessor.Tests\MoodMedia.MessageProcessor.Tests.csproj", "{F43C3E80-E23A-46DA-A3CD-10FD35B1CD34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06514735-CE4F-0643-2693-5476E4F78F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06514735-CE4F-0643-2693-5476E4F78F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06514735-CE4F-0643-2693-5476E4F78F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06514735-CE4F-0643-2693-5476E4F78F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43C3E80-E23A-46DA-A3CD-10FD35B1CD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43C3E80-E23A-46DA-A3CD-10FD35B1CD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43C3E80-E23A-46DA-A3CD-10FD35B1CD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43C3E80-E23A-46DA-A3CD-10FD35B1CD34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AE0D304-3FC5-414E-8A8A-888935480135}
+	EndGlobalSection
+EndGlobal
